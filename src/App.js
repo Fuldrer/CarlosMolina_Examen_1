@@ -7,7 +7,7 @@ import Home from "./components/Home";
 import Weather from "./components/Weather";
 
 const reduxStore = configureStore(window.REDUX_INITIAL_DATA);
-
+//Test GitKraken
 const routing = (
   <Router>
     <Switch>
